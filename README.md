@@ -2,6 +2,8 @@
 
 Just a ToDo app MVP in Vue3 + Vite.
 
+See it live at: https://vue-todo-mvp.netlify.app/
+
 ## Project Setup
 
 ```sh
